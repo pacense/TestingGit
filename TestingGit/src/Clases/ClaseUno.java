@@ -4,7 +4,7 @@ public class ClaseUno {
 	int propiedadUno;
 	
 	public ClaseUno() {
-		System.out.println("Creando ClaseUno...");
+		System.out.println("Creando ClaseUno...dam it");
 	}
 
 	public int getPropiedadUno() {
