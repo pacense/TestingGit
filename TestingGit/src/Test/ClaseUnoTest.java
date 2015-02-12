@@ -1,6 +1,9 @@
+package Test;
 import static org.junit.Assert.*;
 
 import org.junit.Test;
+
+import Clases.ClaseUno;
 
 
 public class ClaseUnoTest {
