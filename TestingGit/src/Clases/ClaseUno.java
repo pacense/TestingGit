@@ -5,7 +5,9 @@ public class ClaseUno {
 	
 	public ClaseUno() {
 		System.out.println("Creando ClaseUno...asas");
+		System.out.println("Creando ClaseUno...dam it");
 	}
+
 
 	public int getPropiedadUno() {
 		return propiedadUno;
