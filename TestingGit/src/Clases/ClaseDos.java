@@ -6,7 +6,9 @@ public class ClaseDos {
 	
 
 	public ClaseDos() {
-		System.out.println("Creando ClaseDos.ñlkjkl..");
+
+		System.out.println("Creando ClaseDos...");
+
 	}
 	
 	public int getPropiedadUno() {
